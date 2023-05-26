@@ -1,0 +1,39 @@
+.form-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+
+}
+
+.form-container form {
+    width: 100%;
+    padding: 40px;
+
+}
+
+.table th,
+td {
+    text-align: center;
+}
+
+
+
+.main-content {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.card-header {
+    display: flex;
+    align-items: center;
+}
+
+.list-button button {
+    margin: 2px;
+}
+
+#star {
+    color: #f7941d;
+}
